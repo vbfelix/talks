@@ -1,7 +1,7 @@
 # Talks
 
 ## 2019
-- Data-Driven Product Development ft. Luis Bern - FEMUG #23
+- Data-Driven Product Development ft. Luis Berns - FEMUG #23
 - Estatística: Um Arsenal para tomada de decisão - Eureka Moment
 - Dissecando métricas ágeis - Maringá Agile #4
 
