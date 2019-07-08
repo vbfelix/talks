@@ -2,9 +2,10 @@
 
 ## 2019
 - A Pecuária de Precisão - Semana de Gestão de Confinamento 2019 (Zoo Jr. - UEM)
-- Data-Driven Product Development ft. Luis Berns - FEMUG #23
+- [Data-Driven Product Development ft. Luis Berns!](https://docs.google.com/presentation/d/1h1vsB_yyBWYlbwWn59uugLPN_1eLp-98rWwzgkJl548/edit?usp=sharing) - FEMUG #23
+- [O cenário da tecnologia em números!](https://docs.google.com/presentation/d/1RF8mSBmKx1XYtESu4cQ-6EG-O9MNZ6BeNvM4mS2XZkw/edit?usp=sharing) - 1º AfroTech MGA
 - Estatística: Um Arsenal para Tomada de Decisão - Eureka Moment
-- Dissecando Métricas Ágeis - Maringá Agile #4
+- [Dissecando Métricas Ágeis!](https://docs.google.com/presentation/d/1A35XibqRHd4Ed7pQC3RSbXaSqO9OycU3EOO_DN7rxIw/edit?usp=sharing) - Maringá Agile #4
 
 ## 2018
 - Músicas no Spotify: Como vivem? De que se alimentam? E quanto tempo sobrevivem? - Cerveja com Dados Maringá #1
