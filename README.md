@@ -1,6 +1,7 @@
 # Talks
 
 ## 2019
+- [Validando seu produto: Evitando uma morte prematura com dados](https://drive.google.com/open?id=1ZR6sWsPfelOwc26wFdNKv1Hsr0t_JfBS) - IxDA Maringá#3
 - A Pecuária de Precisão - Semana de Gestão de Confinamento 2019 (Zoo Jr. - UEM)
 - [Data-Driven Product Development ft. Luis Berns](https://docs.google.com/presentation/d/1h1vsB_yyBWYlbwWn59uugLPN_1eLp-98rWwzgkJl548/edit?usp=sharing) - FEMUG #23
 - [O cenário da tecnologia em números](https://docs.google.com/presentation/d/1RF8mSBmKx1XYtESu4cQ-6EG-O9MNZ6BeNvM4mS2XZkw/edit?usp=sharing) - 1º AfroTech MGA
