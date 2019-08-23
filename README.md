@@ -1,6 +1,7 @@
 # Talks
 
 ## 2019
+- Ciência de Dados: Um Alicerce para Pecuária de Precisão - TICNOVA 2019
 - [Validando seu produto: Evitando uma morte prematura com dados](https://drive.google.com/open?id=1h9JcsFWRUiiJwL7BNwqZAa92DNTfPSpU) - IxDA Maringá#3
 - A Pecuária de Precisão - Semana de Gestão de Confinamento 2019 (Zoo Jr. - UEM)
 - [Data-Driven Product Development ft. Luis Berns](https://docs.google.com/presentation/d/1h1vsB_yyBWYlbwWn59uugLPN_1eLp-98rWwzgkJl548/edit?usp=sharing) - FEMUG #23
