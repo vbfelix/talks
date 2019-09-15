@@ -1,6 +1,7 @@
 # Talks
 
 ## 2019
+- [Gráficos: O Limiar entre uma mensaguem e uma mentira](https://drive.google.com/file/d/12WDebSIj93wq1CvPD3lI3bb8-D-jwKFO/view?usp=sharing) - FrontIn Maringá
 - Ciência de Dados: Um Alicerce para Pecuária de Precisão - TICNOVA 2019
 - [Validando seu produto: Evitando uma morte prematura com dados](https://drive.google.com/open?id=1h9JcsFWRUiiJwL7BNwqZAa92DNTfPSpU) - IxDA Maringá#3
 - A Pecuária de Precisão - Semana de Gestão de Confinamento 2019 (Zoo Jr. - UEM)
