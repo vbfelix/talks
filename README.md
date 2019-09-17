@@ -11,7 +11,7 @@
 - [Dissecando Métricas Ágeis](https://docs.google.com/presentation/d/1A35XibqRHd4Ed7pQC3RSbXaSqO9OycU3EOO_DN7rxIw/edit?usp=sharing) - Maringá Agile #4
 
 ## 2018
-- Músicas no Spotify: Como vivem? De que se alimentam? E quanto tempo sobrevivem? - Cerveja com Dados Maringá #1
+- Músicas no Spotify: Como vivem? E quanto tempo sobrevivem? - Cerveja com Dados Maringá #1
 - Data Science: Magia ou Ciência? - GDG Maringá: Ciência de dados
 - Trabalhando com Consultoria Estatística - VIII SEst UFSCar/USP
 
