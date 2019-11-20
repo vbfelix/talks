@@ -1,6 +1,7 @@
 # Talks
 
 ## 2019
+- Ciência de dados e IA, como se preparar? - 1º Action Time
 - [Degustando ferramentas de BI](https://drive.google.com/file/d/1rXK-GpH9N6sodEPcDZfvyyebdflTcc1Y/view?usp=sharing) - 5º PowerBI Maringá
 - [Gráficos: O Limiar entre uma mensagem e uma mentira](https://drive.google.com/file/d/12WDebSIj93wq1CvPD3lI3bb8-D-jwKFO/view?usp=sharing) - FrontIn Maringá
 - Ciência de Dados: Um Alicerce para Pecuária de Precisão - TICNOVA 2019
