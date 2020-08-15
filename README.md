@@ -1,5 +1,8 @@
 # Talks
 
+## 2020
+- A Era da Convergência: O Peso da Gestão Analítica - Encontro de Confinamento e de Recriadores 2020
+
 ## 2019
 - Ciência de dados e IA, como se preparar? - 1º Action Time
 - [Degustando ferramentas de BI](https://drive.google.com/file/d/1rXK-GpH9N6sodEPcDZfvyyebdflTcc1Y/view?usp=sharing) - 5º PowerBI Maringá
